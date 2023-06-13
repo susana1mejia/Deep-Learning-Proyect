@@ -3,7 +3,8 @@
 En este repositorio se encuentra el proyecto de Deep Learning (2023) usando redes neuronales recurrentes. 
 - El video con la explicación se encuentra en el siguiente enlace: https://youtu.be/nKfdCz7g3SE
 
-- El repositorio contiene cuatro notebooks:
+El repositorio contiene: 
+- Cuatro notebooks:
 
     01-Contexto: Explicación y objetivo de modelado
     
@@ -12,3 +13,11 @@ En este repositorio se encuentra el proyecto de Deep Learning (2023) usando rede
     03-Preprocesado: Preparación de las estructuras necesarias para la predicción
     
     04-Arquitectura de linea base: Arquitectura de la red neuronal y resultados.
+ 
+- Archivos PDF:
+
+    Primera entrega: Proyecto_Deep_Learning.pdf
+    
+    INFORME_PROYECTO.PDF
+  
+ - Variables y datasets usados en los notebooks
